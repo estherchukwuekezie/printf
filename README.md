@@ -22,5 +22,5 @@ converted for output.
 ## Authors
 
 * Abigail Anioke (https://github.com/Jefa sauce-dev)
-* Esther Chukwueze (https://github.com/dozonalx)
+* Esther Chukwueze (https://github.com/estherchukwueze)
 
